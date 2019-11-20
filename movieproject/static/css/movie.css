@@ -1,0 +1,28 @@
+body{
+  background: url(https://images.unsplash.com/photo-1521285181414-95786717c6cc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fe6a058a904b85faa817e68f341db4b8&auto=format&fit=crop&w=335&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container .jumbotron{
+  margin-top:200px;
+  background: orange;
+  color:white;
+  font-family: 'Merriweather', serif;
+}
+table,tr,td,thead,th{
+  border:2px solid white;
+  font-size: 30px;
+  color:white;
+  background:red;
+  margin:auto;
+}
+thead,th{
+  border:2px solid red;
+  font-size: 30px;
+  color:blue;
+  margin:auto;
+  background:yellow;
+}
+h1{
+  text-align: center;
+}
